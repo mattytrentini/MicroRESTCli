@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["microRESTCli.py", "github:jczic/MicroRESTCli/microRESTCli.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
